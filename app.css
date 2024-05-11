@@ -1,0 +1,13 @@
+body {
+    background-image: url('./bg.jpg');
+    text-align: center;
+}
+
+.white {
+    color: rgb(163, 160, 255);
+}
+
+#forStart:hover {
+    color: rgb(243, 243, 243);
+    cursor: pointer;
+}
